@@ -1,1 +1,1 @@
-TOKEN_API = '5960765716:AAFCJXIeixt_jeWe6KAdO0lQQuo8Y9Y7Ees'
+TOKEN_API = 'Укажи токен'
